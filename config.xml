@@ -2,12 +2,12 @@
 <widget id="com.secure_your_data.mobile" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Secure Your Data</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Secure Your Data mobile app
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
-    <content src="index.html" />
+    <content src="http://secure-your-data.com:8080" />
     <access origin="*" />
 	<icon src="res/icon/icon.png" />
 </widget>
