@@ -10,4 +10,6 @@
     <content src="http://secure-your-data.com:8080/mobile" />
     <access origin="*" />
 	<icon src="res/icon/icon.png" />
+	<gap:plugin name="org.apache.cordova.device" />
+	<gap:plugin name="org.apache.cordova.contacts" />
 </widget>
