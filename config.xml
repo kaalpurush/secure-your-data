@@ -7,7 +7,7 @@
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
-    <content src="http://secure-your-data.com:8080" />
+    <content src="http://secure-your-data.com:8080/mobile" />
     <access origin="*" />
 	<icon src="res/icon/icon.png" />
 </widget>
