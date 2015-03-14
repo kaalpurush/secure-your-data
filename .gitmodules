@@ -1,0 +1,3 @@
+[submodule "platforms/android"]
+	path = platforms/android
+	url = git@bitbucket.org:secureyourdata/android.git
